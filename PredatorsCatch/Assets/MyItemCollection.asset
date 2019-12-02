@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8117808598812845289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: MiRifleDeAsalto
+  m_EditorClassIdentifier: 
+  m_ID: 0
+  m_CategoryIDs: 00000000
+  m_Description: 
+  m_Capacity: 1
+  m_DroppedItemTypes: []
+--- !u!114 &-7616526885234501401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: BalasDeMiRifleDeAsalto
+  m_EditorClassIdentifier: 
+  m_ID: 1
+  m_CategoryIDs: 00000000
+  m_Description: 
+  m_Capacity: 3.4028235e+38
+  m_DroppedItemTypes: []
+--- !u!114 &-4556980163819984903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e74c32144565264eb86dc7514aca7f7, type: 3}
+  m_Name: NuevoItemType
+  m_EditorClassIdentifier: 
+  m_ID: 1
+  m_CategoryIDs: 00000000
+  m_Description: 
+  m_Capacity: 3.4028235e+38
+  m_DroppedItemTypes: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd29761419510c7469e993b29ea117d8, type: 3}
+  m_Name: MyItemCollection
+  m_EditorClassIdentifier: 
+  m_Categories:
+  - m_ID: 2138308425
+    m_Name: Items
+  m_ItemTypes:
+  - {fileID: -8117808598812845289}
+  - {fileID: -7616526885234501401}

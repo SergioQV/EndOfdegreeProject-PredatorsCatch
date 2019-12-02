@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opsive.UltimateCharacterController", "Opsive.UltimateCharacterController.csproj", "{ED4C3FC4-9C98-0406-2BAC-F14C99EE344A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9530A7DD-C1D6-4D9E-AE59-851B8CF5F592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{A296B230-EFE8-C2DF-2234-74D9C736F035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opsive.UltimateCharacterController.Demo", "Opsive.UltimateCharacterController.Demo.csproj", "{72D17BDF-73E8-51B6-25B7-779FD1B3FB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opsive.UltimateCharacterController.Editor", "Opsive.UltimateCharacterController.Editor.csproj", "{38D93053-EFB4-514E-943C-19BF41C9EF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{C91DE998-6220-FF64-30AA-FBA01828CAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opsive.UltimateCharacterController.Demo.Editor", "Opsive.UltimateCharacterController.Demo.Editor.csproj", "{578FB2CC-15A6-4FE9-F755-BEB9FCFBB7E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4C3FC4-9C98-0406-2BAC-F14C99EE344A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4C3FC4-9C98-0406-2BAC-F14C99EE344A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4C3FC4-9C98-0406-2BAC-F14C99EE344A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4C3FC4-9C98-0406-2BAC-F14C99EE344A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9530A7DD-C1D6-4D9E-AE59-851B8CF5F592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9530A7DD-C1D6-4D9E-AE59-851B8CF5F592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9530A7DD-C1D6-4D9E-AE59-851B8CF5F592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9530A7DD-C1D6-4D9E-AE59-851B8CF5F592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A296B230-EFE8-C2DF-2234-74D9C736F035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A296B230-EFE8-C2DF-2234-74D9C736F035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A296B230-EFE8-C2DF-2234-74D9C736F035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A296B230-EFE8-C2DF-2234-74D9C736F035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D17BDF-73E8-51B6-25B7-779FD1B3FB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D17BDF-73E8-51B6-25B7-779FD1B3FB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D17BDF-73E8-51B6-25B7-779FD1B3FB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D17BDF-73E8-51B6-25B7-779FD1B3FB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D93053-EFB4-514E-943C-19BF41C9EF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D93053-EFB4-514E-943C-19BF41C9EF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D93053-EFB4-514E-943C-19BF41C9EF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D93053-EFB4-514E-943C-19BF41C9EF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91DE998-6220-FF64-30AA-FBA01828CAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91DE998-6220-FF64-30AA-FBA01828CAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91DE998-6220-FF64-30AA-FBA01828CAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91DE998-6220-FF64-30AA-FBA01828CAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578FB2CC-15A6-4FE9-F755-BEB9FCFBB7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578FB2CC-15A6-4FE9-F755-BEB9FCFBB7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578FB2CC-15A6-4FE9-F755-BEB9FCFBB7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578FB2CC-15A6-4FE9-F755-BEB9FCFBB7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
